@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dfc4764-81df-44a3-8130-5e8767acf2d1" name="Changes" comment="hello_world.py">
-      <change beforePath="$PROJECT_DIR$/basics/test_inputs/1.in" beforeDir="false" />
-    </list>
+    <list default="true" id="4dfc4764-81df-44a3-8130-5e8767acf2d1" name="Changes" comment="recovered-mergesort-new" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698505915873</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="recovered-mergesort-new">
+      <created>1698516590765</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698516590765</updated>
+    </task>
+    <task id="LOCAL-00005" summary="recovered-mergesort-new">
+      <created>1698516784223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698516784223</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello_world.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello_world.py" />
+    <MESSAGE value="recovered-mergesort-new" />
+    <option name="LAST_COMMIT_MESSAGE" value="recovered-mergesort-new" />
   </component>
 </project>
