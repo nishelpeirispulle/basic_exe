@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dfc4764-81df-44a3-8130-5e8767acf2d1" name="Changes" comment="recovered-mergesort-new" />
+    <list default="true" id="4dfc4764-81df-44a3-8130-5e8767acf2d1" name="Changes" comment="recovered-mergesort-deleted">
+      <change afterPath="$PROJECT_DIR$/basics/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698516784223</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="recovered-mergesort-deleted">
+      <created>1698518127989</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698518127989</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello_world.py" />
     <MESSAGE value="recovered-mergesort-new" />
-    <option name="LAST_COMMIT_MESSAGE" value="recovered-mergesort-new" />
+    <MESSAGE value="recovered-mergesort-deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="recovered-mergesort-deleted" />
   </component>
 </project>
