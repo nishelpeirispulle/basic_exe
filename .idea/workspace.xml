@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4dfc4764-81df-44a3-8130-5e8767acf2d1" name="Changes" comment="recovered-mergesort-gitignore">
-      <change beforePath="$PROJECT_DIR$/basics/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ignore.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698518938837</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="recovered-mergesort-gitignore">
+      <created>1698519263150</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698519263150</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
